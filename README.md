@@ -46,7 +46,7 @@ Business process analysis (AS-IS / TO-BE modelling)
 
 System workflow design
 
-Digital service platform design
+Digital service platform design (high-fidelity prototype)
 
 ### Goal
 
