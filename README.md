@@ -1,8 +1,8 @@
 # Smart Travel Planning System
 
-## This project focuses on designing and modelling a smart travel planning platform that integrates multiple travel services into a single application. The system aims to simplify trip organisation by allowing users to plan, book, and manage travel activities through a unified interface.
+This project focuses on designing and modelling a smart travel planning platform that integrates multiple travel services into a single application. The system aims to simplify trip organisation by allowing users to plan, book, and manage travel activities through a unified interface.
 
-## The project uses Business Process Modelling (BPMN) to analyse and redesign travel planning workflows. It presents both AS-IS and TO-BE process models to illustrate how current travel planning processes can be improved through automation and system integration.
+The project uses Business Process Modelling (BPMN) to analyse and redesign travel planning workflows. It presents both AS-IS and TO-BE process models to illustrate how current travel planning processes can be improved through automation and system integration.
 
 ### The platform enables users to:
 
